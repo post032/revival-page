@@ -1681,6 +1681,8 @@ input[type="radio"].visually-hidden {
   color: #424242;
   text-align: center;
   margin-bottom: 24px;
+  position: relative;
+  z-index: 2;
 }
 .trust__link {
   font-style: normal;
